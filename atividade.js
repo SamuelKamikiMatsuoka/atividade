@@ -1,5 +1,4 @@
-let num1;
-let num2;
+
 
 console.log(Math.sqrt(100));
 console.log(Math.round(4.7));
